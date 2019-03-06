@@ -1,0 +1,6 @@
+framework module Pods_BeeHiveDemo {
+  umbrella header "Pods-BeeHiveDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
